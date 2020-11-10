@@ -1,0 +1,1 @@
+.node/node-v15.0.1-darwin-x64/bin/node .pnpm/bin/pnpm.js publish
