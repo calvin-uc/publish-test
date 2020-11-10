@@ -1,2 +1,3 @@
 .node/
 .pnpm/
+node_modules/
