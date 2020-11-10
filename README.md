@@ -1,0 +1,1 @@
+Repo to replicate publishing errors with pnpm
